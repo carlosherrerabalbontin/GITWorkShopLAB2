@@ -1,0 +1,10 @@
+C:\Users\Administrator\carlosherreragit\MyConsoleApp\bin\Debug\MyConsoleApp.exe.config
+C:\Users\Administrator\carlosherreragit\MyConsoleApp\bin\Debug\MyConsoleApp.exe
+C:\Users\Administrator\carlosherreragit\MyConsoleApp\bin\Debug\MyConsoleApp.pdb
+C:\Users\Administrator\carlosherreragit\MyConsoleApp\bin\Debug\MyConsoleApp.xml
+C:\Users\Administrator\carlosherreragit\MyConsoleApp\obj\Debug\MyConsoleApp.Resources.resources
+C:\Users\Administrator\carlosherreragit\MyConsoleApp\obj\Debug\MyConsoleApp.vbproj.GenerateResource.cache
+C:\Users\Administrator\carlosherreragit\MyConsoleApp\obj\Debug\MyConsoleApp.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\carlosherreragit\MyConsoleApp\obj\Debug\MyConsoleApp.exe
+C:\Users\Administrator\carlosherreragit\MyConsoleApp\obj\Debug\MyConsoleApp.xml
+C:\Users\Administrator\carlosherreragit\MyConsoleApp\obj\Debug\MyConsoleApp.pdb
